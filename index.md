@@ -2,32 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Web projects 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tmap API]
+An API that allows people to track trending Twitter posts based on geolocation (data obtained via Twitter API, GoogleMaps Geocoding API and Google Translate API)
+<img src="images/tmap.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Creative Stash]
+<img src="images/creativestash.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[DAO Homepage]
+<img src="images/urbisetorbi.jpg?raw=true"/>
 
 ---
 
+### Hardware
 
+- [Neopulse](https://github.com/cybertilla/Neopulse)
+
+---
+
+### Entrepreneurial work
+
+- [Quantum Thinkers]
 
 
 ---
