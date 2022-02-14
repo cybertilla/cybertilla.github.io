@@ -14,7 +14,7 @@ An API that allows people to track trending Twitter posts based on geolocation (
 
 ---
 [DAO Homepage]
-<img src="images/urbisetorbi.jpg?raw=true"/>
+<img src="images/urbitetorbi.jpg?raw=true"/>
 
 ---
 
