@@ -1,10 +1,8 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Bertilla Fabris
+logo: "/images/B_image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  Information Architecture student
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
