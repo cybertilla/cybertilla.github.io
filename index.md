@@ -4,22 +4,25 @@
 
 ### Web projects 
 
-[Tmap API] (https://github.com/cybertilla/Tmap)
+[Tmap API](https://github.com/cybertilla/Tmap)
+
 An API that allows people to track Twitter trends and translate them
 (data obtained via Twitter API, GoogleMaps Geocoding API and Google Translate API).
 <img src="images/tmap.jpg?raw=true"/>
 
 ---
-[Creative Stash]
+####Creative Stash
+
 A platform for sharing creative ideas with the community,
 users can register, personalise their profile, add ideas, comment and like.
 University project part of BS in Computer Science, 2021.
 <img src="images/creativestash.jpg?raw=true"/>
 
 ---
-[DAO Homepage]
-<img src="images/urbitetorbi.jpg?raw=true"/>
+####DAO Homepage
 A stylish landing page for a web3 project.
+<img src="images/urbitetorbi.jpg?raw=true"/>
+
 
 ---
 
