@@ -28,16 +28,20 @@ A stylish landing page for a web3 project.
 
 ### Sensor based Creative Projects
 - [Neopulse](https://github.com/cybertilla/Neopulse)
+
 An Arduino project that leverages a heart beat sensor and one LED strip.
 
 - Delta: the shift
-    [Trailer](https://vimeo.com/manage/videos/321040232)
-    [Screen recording](https://vimeo.com/manage/videos/321041193)
+
+    -[Trailer](https://vimeo.com/manage/videos/321040232)
+
+    -[Screen recording](https://vimeo.com/manage/videos/321041193)
+
 A board equipped with electrodes streams EEG results to the Unity game engine.
 <img src="images/delta.jpg?raw=true"/>
 
 
-- Prelude](https://vimeo.com/manage/videos/322285903)
+- [Prelude](https://vimeo.com/manage/videos/322285903)
 Motion sensor suits record the position and movements of characters who are subsequently animated.
 <img src="images/prelude.jpg?raw=true"/>
 ---
