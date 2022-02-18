@@ -26,11 +26,25 @@ A stylish landing page for a web3 project.
 
 ---
 
-### Hardware
-An Arduino based project that leverages a heart beat sensor and one LED strip.
+### Sensor based Creative Projects
 - [Neopulse](https://github.com/cybertilla/Neopulse)
+An Arduino project that leverages a heart beat sensor and one LED strip.
+
+- Delta: the shift
+    [Trailer](https://vimeo.com/manage/videos/321040232)
+    [Screen recording](https://vimeo.com/manage/videos/321041193)
+A board equipped with electrodes streams EEG results to the Unity game engine.
+<img src="images/delta.jpg?raw=true"/>
 
 
+- Prelude](https://vimeo.com/manage/videos/322285903)
+Motion sensor suits record the position and movements of characters who are subsequently animated.
+<img src="images/prelude.jpg?raw=true"/>
 ---
+
+
+
+
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
