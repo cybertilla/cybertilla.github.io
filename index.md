@@ -19,13 +19,6 @@ University project part of BS in Computer Science, 2021.
 <img src="images/creativestash.jpg?raw=true"/>
 
 ---
-#### DAO Homepage
-A stylish landing page for a web3 project.
-<img src="images/urbitetorbi.jpg?raw=true"/>
-
-
----
-
 ### Sensor based Creative Projects
 - [Neopulse](https://github.com/cybertilla/Neopulse)
 
