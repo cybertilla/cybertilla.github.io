@@ -6,12 +6,12 @@
 
 [Tmap API](https://github.com/cybertilla/Tmap)
 
-An API that allows people to track Twitter trends and translate them
+An API that allows people to track Twitter trends and translate the most popular tweets
 (data obtained via Twitter API, GoogleMaps Geocoding API and Google Translate API).
 <img src="images/tmap.jpg?raw=true"/>
 
 ---
-#### Creative Stash
+[Creative Stash](https://github.com/pontusnordstrom89/CreativeStash)
 
 A platform for sharing creative ideas with the community,
 users can register, personalise their profile, add ideas, comment and like.
@@ -19,7 +19,7 @@ University project part of BS in Computer Science, 2021.
 <img src="images/creativestash.jpg?raw=true"/>
 
 ---
-### Sensor based Creative Projects
+### Sensor-based Creative Projects
 - [Neopulse](https://github.com/cybertilla/Neopulse)
 
 An Arduino project that leverages a heart beat sensor and one LED strip.
