@@ -2,8 +2,18 @@
 
 ---
 
-### Web projects 
+### Web projects
 
+[Poetry Site](https://github.com/cybertilla/randomPoems)
+
+A Single Page Application built with Vue, it fetches poems from PoetryDB and displays them by author or randomly.
+
+---
+[InspirationalMemz](https://github.com/cybertilla/InspirationalMems)
+
+A mashup websites that forms silly combinations of memes and inspirational quotes, with the possibility to save your favourite to local storage.
+
+---
 [Tmap API](https://github.com/cybertilla/Tmap)
 
 An API that allows people to track Twitter trends and translate the most popular tweets
